@@ -1,5 +1,12 @@
-# Introduction
+# Introducción
 
-This is a book created from markdown and executable code.
+Este es un libro creado a partir de markdown y código ejecutable.
 
-See @knuth84 for additional discussion of literate programming.
+Es bonito, ¿verdad?
+
+Consulta @knuth84 para más información sobre la programación alfabetizada.
+
+Quiero poder actualizar este capítulo y que se actualice la traducción automática
+¡sólo para los fragmentos que lo necesiten!
+
+
