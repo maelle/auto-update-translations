@@ -1,10 +1,10 @@
 # Introduction
 
-This is a book created from markdown and executable code.
+This is a book created from markdown and executable code, the code being in chunks.
 
 It's nice right?
 
-See @knuth84 for additional discussion of literate programming.
+See @knuth84 for additional discussion of literate programming or keep reading this book.
 
 I want to be able to update this chapter and have the automatic translation updated 
 only for the pieces that need it!

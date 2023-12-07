@@ -1,10 +1,10 @@
 # Introducción
 
-Este es un libro creado a partir de markdown y código ejecutable.
+Se trata de un libro creado a partir de markdown y código ejecutable, estando el código en trozos.
 
 Es bonito, ¿verdad?
 
-Consulta @knuth84 para más información sobre la programación alfabetizada.
+Consulta @knuth84 para más información sobre la programación alfabetizada o sigue leyendo este libro.
 
 Quiero poder actualizar este capítulo y que se actualice la traducción automática
 ¡sólo para los fragmentos que lo necesiten!
