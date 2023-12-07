@@ -1,6 +1,6 @@
 # Introduction
 
-This is a book created from markdown and executable code.
+This is a book created from markdown and executable code, the code being in chunks.
 
 It's nice right?
 
